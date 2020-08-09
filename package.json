@@ -10,7 +10,7 @@
     "homebridge": ">= 0.4"
   },
   "dependencies": {
-    "stagg-ekg-plus": "== 0.0.1"
+    "stagg-ekg-plus": "nehayward/stagg-ekg-plus"
   },
   "description": "A [Homebridge](https://github.com/nfarina/homebridge) plugin for [Stagg EKG+](https://fellowproducts.com/collections/heat/products/stagg-ekg-plus).",
   "scripts": {
